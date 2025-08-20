@@ -1,0 +1,25 @@
+# requirements.txt
+# No external Python dependencies required
+# This project uses only Python standard library
+
+# setup_instructions.txt
+QUICK SETUP GUIDE
+================
+
+1. Save the main script as: android_test_suite.py
+2. Make it executable: chmod +x android_test_suite.py
+3. Install ADB if not already installed:
+   
+   Windows: Download Android SDK Platform Tools
+   macOS: brew install android-platform-tools  
+   Linux: sudo apt-get install android-tools-adb
+
+4. Connect Android device with USB debugging enabled
+5. Run: python android_test_suite.py
+
+DEMO PREPARATION TIPS:
+- Have an Android device connected and ready
+- Test the script once before the interview
+- Be ready to explain each test module
+- Highlight the professional reporting features
+- Show the JSON output for technical depth
