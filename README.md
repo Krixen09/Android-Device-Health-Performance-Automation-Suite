@@ -22,7 +22,7 @@ A comprehensive Python-based automation tool for Android device testing, health 
 ## 📋 Prerequisites
 
 ### Required Software
-- **Python 3.6+** - Core runtime environment
+- **Python 3.7+** - Core runtime environment
 - **Android SDK Platform Tools** - ADB command-line interface
 - **USB Debugging Enabled** - On target Android device
 
@@ -176,14 +176,6 @@ Add verbose logging by modifying the `run_adb_command()` method to include debug
 - **Web Dashboard** - Real-time monitoring and historical analytics
 - **CI/CD Integration** - Jenkins/GitHub Actions plugin support
 
-## 👤 Author
-**[Your Name]** - Android Automation Specialist
-- Experienced in mobile device testing and quality assurance
-- Python automation expert with ADB command proficiency
-- Focus on enterprise-grade testing solutions
-
-## 📄 License
-This project is licensed under the MIT License - see LICENSE file for details.
 
 ---
 *Professional Android device testing made simple and automated.*
