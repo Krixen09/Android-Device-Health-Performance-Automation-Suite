@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 Android Device Health & Performance Automation Suite
-Author: [Your Name]
 Description: Comprehensive Android device testing and health monitoring tool
 """
 
