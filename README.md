@@ -179,3 +179,5 @@ Add verbose logging by modifying the `run_adb_command()` method to include debug
 
 ---
 *Professional Android device testing made simple and automated.*
+
+## ⚠️ Still working on the new features, will release in future.
